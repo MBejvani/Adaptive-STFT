@@ -6,7 +6,7 @@ Adaptive short-time Fourier transform
 
 Single-file vectorized implementation of elastic wave propagation in vertical transversely-isotropic(VTI) medium in MATLAB. The program is solving second-order wave equation in displacement formulation. We don't account for derivatives of elastic parameters. Modelling area is surrounded by simple absorbing sponge boundaries with exponential decay (Cerjan, 1985). 
 
-![Wavefield example](img/snap.jpg)
+![Wavefield example](img/cf.png)
 
 ### **DISCRETIZATION DETAILS**:
 * Finite-Differences in Time Domain (FDTD)
