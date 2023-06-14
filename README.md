@@ -1,2 +1,2 @@
 # Adaptive-STFT
-Adatpive short time frequency transform
+Adaptive short-time Fourier transform
