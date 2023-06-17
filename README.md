@@ -16,3 +16,4 @@ Adaptive short-time Fourier transform
 ![Wavefield example](img/sig2_3.png)
 
 
+https://doi.org/10.1109/TGRS.2012.2220144
