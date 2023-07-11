@@ -17,5 +17,4 @@ Adaptive short-time Fourier transform
 
 
 ### **Reference**: 
-A. Gholami, "Sparse Time–Frequency Decomposition and Some Applications," in IEEE Transactions on Geoscience and Remote Sensing, vol. 51, no. 6, pp. 3598-3604, June 2013, doi: 10.1109/TGRS.2012.2220144.
-https://doi.org/10.1109/TGRS.2012.2220144
+Mohammad Bejvani, and ALI GHOLAMI, “ADAPTIVE STFT AND ITS APPLICATION FOR AUTOMATIC TRAVELTIME PICKING,” presented at the SEMINAR PETROLEUM GEOPHYSICAL EXPLORATION. 2015, [Online]. Available: https://sid.ir/paper/924456/en
